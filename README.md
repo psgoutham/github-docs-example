@@ -31,6 +31,18 @@ class Program
     }
 }
 ```
+
+When you can, you should attempt to apply syntax highlighting to your code blocks. 
+Good cloud engineers use code blocks for both code and errors that appear in the console.
+
+```
+Error: Attempted to divide by zero.
+```
+> Here is an example of using a code block for an error that appears in bash.
+
 <!-- ![sample](https://github.com/psgoutham/github-docs-example/assets/123158351/c7539087-7aef-44ee-8ea2-85eac1a4c133) -->
 
 <img width="200px" height="200px" src="https://github.com/psgoutham/github-docs-example/assets/123158351/c7539087-7aef-44ee-8ea2-85eac1a4c133" />
+
+## References
+- [Github Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
