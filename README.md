@@ -44,5 +44,18 @@ Error: Attempted to divide by zero.
 
 <img width="200px" height="200px" src="https://github.com/psgoutham/github-docs-example/assets/123158351/c7539087-7aef-44ee-8ea2-85eac1a4c133" />
 
+- [x] Finish Step 1
+- [x] Finish Step 2
+- [ ] Finish Step 3
+
+# Step 4 - Use Emojis (Optional)
+
+Github Flavoured Markdown (GFM) supports emoji shortcodes. Here are some examples:
+| Name | Shortcode | Emoji |
+| --- | --- | --- |
+| Cloud | `:cloud:` | :cloud: |
+
+
 ## References
-- [Github Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Basic writing and formatting syntax (Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Github Flavoured Markdown - Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
