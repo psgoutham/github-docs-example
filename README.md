@@ -55,6 +55,8 @@ Github Flavoured Markdown (GFM) supports emoji shortcodes. Here are some example
 | --- | --- | --- |
 | Cloud | `:cloud:` | :cloud: |
 
+![Some random picture](assets/Capture001.png)
+
 
 ## References
 - [Basic writing and formatting syntax (Github Flavoured Markdown)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
